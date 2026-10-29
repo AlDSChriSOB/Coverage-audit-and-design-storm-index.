@@ -1,0 +1,73 @@
+priority_tier,region,hirds_version,duration,duration_min,ari_years,grid_id,url,purpose,status
+1,Canterbury,4,1 h,60,2.0,66cd0f7c345744712bef0719,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef0719,design-storm comparison,to request
+1,Canterbury,4,1 h,60,10.0,66cd0f7c345744712bef061b,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef061b,design-storm comparison,to request
+1,Canterbury,4,1 h,60,100.0,66cd0f7c345744712bef07b4,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef07b4,design-storm comparison,to request
+1,Canterbury,4,6 h,360,2.0,66cd1059345744712bf17140,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf17140,design-storm comparison,to request
+1,Canterbury,4,6 h,360,10.0,66cd1059345744712bf1709b,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf1709b,design-storm comparison,to request
+1,Canterbury,4,6 h,360,100.0,66cd1059345744712bf1702c,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf1702c,design-storm comparison,to request
+1,Canterbury,4,1 d,1440,2.0,66cd0fa8345744712bef74e9,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef74e9,design-storm comparison,to request
+1,Canterbury,4,1 d,1440,10.0,66cd0fa8345744712bef73fd,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef73fd,design-storm comparison,to request
+1,Canterbury,4,1 d,1440,100.0,66cd0fa8345744712bef7390,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7390,design-storm comparison,to request
+1,Marlborough,4,1 h,60,2.0,66cd0f7c345744712bef06fa,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef06fa,design-storm comparison,to request
+1,Marlborough,4,1 h,60,10.0,66cd0f7c345744712bef05fe,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef05fe,design-storm comparison,to request
+1,Marlborough,4,1 h,60,100.0,66cd0f7c345744712bef0795,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef0795,design-storm comparison,to request
+1,Marlborough,4,6 h,360,2.0,66cd1059345744712bf17137,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf17137,design-storm comparison,to request
+1,Marlborough,4,6 h,360,10.0,66cd1059345744712bf17084,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf17084,design-storm comparison,to request
+1,Marlborough,4,6 h,360,100.0,66cd1059345744712bf1701c,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf1701c,design-storm comparison,to request
+1,Marlborough,4,1 d,1440,2.0,66cd0fa8345744712bef74c9,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef74c9,design-storm comparison,to request
+1,Marlborough,4,1 d,1440,10.0,66cd0fa8345744712bef73e5,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef73e5,design-storm comparison,to request
+1,Marlborough,4,1 d,1440,100.0,66cd0fa8345744712bef7389,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7389,design-storm comparison,to request
+1,New Zealand,5,1 h,60,2.0,6ae2ab37ee33e04567b03aef,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03aef,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,1 h,60,10.0,6ae2ab37ee33e04567b03b15,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b15,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,1 h,60,100.0,6ae2ab37ee33e04567b03b3d,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b3d,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,6 h,360,2.0,6ae2ab37ee33e04567b03aed,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03aed,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,6 h,360,10.0,6ae2ab37ee33e04567b03b13,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b13,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,6 h,360,100.0,6ae2ab38ee33e04567b03b6d,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab38ee33e04567b03b6d,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,1 d,1440,2.0,6ae2ab37ee33e04567b03aeb,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03aeb,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,1 d,1440,10.0,6ae2ab37ee33e04567b03b11,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b11,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,New Zealand,5,1 d,1440,100.0,6ae2ab38ee33e04567b03b6b,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab38ee33e04567b03b6b,version comparison (V4 vs V5 needs V4 national grid too),to request
+1,Waikato,4,1 h,60,2.0,66cd0f7c345744712bef08c3,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef08c3,design-storm comparison,to request
+1,Waikato,4,1 h,60,10.0,66cd0f7c345744712bef05d6,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef05d6,design-storm comparison,to request
+1,Waikato,4,1 h,60,100.0,66cd0f7c345744712bef0760,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f7c345744712bef0760,design-storm comparison,to request
+1,Waikato,4,6 h,360,2.0,66f3537559fde81225eb8dd6,https://niwa-nz.myshopify.com/products/hirds/files/66f3537559fde81225eb8dd6,design-storm comparison,to request
+1,Waikato,4,6 h,360,10.0,66cd1059345744712bf17049,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf17049,design-storm comparison,to request
+1,Waikato,4,6 h,360,100.0,66cd1059345744712bf16fde,https://niwa-nz.myshopify.com/products/hirds/files/66cd1059345744712bf16fde,design-storm comparison,to request
+1,Waikato,4,1 d,1440,2.0,66cd0fa8345744712bef7490,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7490,design-storm comparison,to request
+1,Waikato,4,1 d,1440,10.0,66cd0fa8345744712bef73c5,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef73c5,design-storm comparison,to request
+1,Waikato,4,1 d,1440,100.0,66cd0fa8345744712bef7500,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7500,design-storm comparison,to request
+2,Canterbury,4,10 min,10,5.0,66cd0f73345744712beed117,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed117,sensitivity,to request
+2,Canterbury,4,10 min,10,50.0,66cd0f73345744712beed0b0,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed0b0,sensitivity,to request
+2,Canterbury,4,10 min,10,250.0,66cd0f73345744712beeceee,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beeceee,sensitivity,to request
+2,Canterbury,4,2 h,120,5.0,66cd0fa7345744712bef7111,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef7111,sensitivity,to request
+2,Canterbury,4,2 h,120,50.0,66cd0fa8345744712bef7262,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7262,sensitivity,to request
+2,Canterbury,4,2 h,120,250.0,66cd0fa7345744712bef70a9,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef70a9,sensitivity,to request
+2,Canterbury,4,2 d,2880,5.0,673d3b3a6ba42af3b98d4a4a,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a4a,sensitivity,to request
+2,Canterbury,4,2 d,2880,50.0,673d3b3a6ba42af3b98d4a34,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a34,sensitivity,to request
+2,Canterbury,4,2 d,2880,250.0,673d3b3a6ba42af3b98d49f8,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d49f8,sensitivity,to request
+2,Marlborough,4,10 min,10,5.0,66cd0f73345744712beed0f6,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed0f6,sensitivity,to request
+2,Marlborough,4,10 min,10,50.0,66cd0f73345744712beed092,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed092,sensitivity,to request
+2,Marlborough,4,10 min,10,250.0,66cd0f73345744712beeceda,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beeceda,sensitivity,to request
+2,Marlborough,4,2 h,120,5.0,66cd0fa7345744712bef70f1,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef70f1,sensitivity,to request
+2,Marlborough,4,2 h,120,50.0,66cd0fa8345744712bef725b,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef725b,sensitivity,to request
+2,Marlborough,4,2 h,120,250.0,66cd0fa7345744712bef709d,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef709d,sensitivity,to request
+2,Marlborough,4,2 d,2880,5.0,673d3b3a6ba42af3b98d4a40,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a40,sensitivity,to request
+2,Marlborough,4,2 d,2880,50.0,673d3b3a6ba42af3b98d4a30,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a30,sensitivity,to request
+2,Marlborough,4,2 d,2880,250.0,673d3b3a6ba42af3b98d49f4,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d49f4,sensitivity,to request
+2,New Zealand,5,10 min,10,5.0,6ae2ab37ee33e04567b03ae6,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03ae6,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,10 min,10,50.0,6ae2ab37ee33e04567b03b26,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b26,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,10 min,10,250.0,6ae2ab38ee33e04567b03b66,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab38ee33e04567b03b66,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 h,120,5.0,6ae2ab37ee33e04567b03ae2,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03ae2,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 h,120,50.0,6ae2ab37ee33e04567b03b22,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b22,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 h,120,250.0,6ae2ab38ee33e04567b03b62,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab38ee33e04567b03b62,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 d,2880,5.0,6ae2ab37ee33e04567b03b1c,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b1c,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 d,2880,50.0,6ae2ab37ee33e04567b03b1e,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab37ee33e04567b03b1e,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,New Zealand,5,2 d,2880,250.0,6ae2ab38ee33e04567b03b5e,https://niwa-nz.myshopify.com/products/hirds/files/6ae2ab38ee33e04567b03b5e,version comparison (V4 vs V5 needs V4 national grid too),to request
+2,Waikato,4,10 min,10,5.0,66cd0f73345744712beed0d1,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed0d1,sensitivity,to request
+2,Waikato,4,10 min,10,50.0,66cd0f73345744712beed190,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beed190,sensitivity,to request
+2,Waikato,4,10 min,10,250.0,66cd0f73345744712beece9d,https://niwa-nz.myshopify.com/products/hirds/files/66cd0f73345744712beece9d,sensitivity,to request
+2,Waikato,4,2 h,120,5.0,66cd0fa7345744712bef70d7,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef70d7,sensitivity,to request
+2,Waikato,4,2 h,120,50.0,66cd0fa8345744712bef7222,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa8345744712bef7222,sensitivity,to request
+2,Waikato,4,2 h,120,250.0,66cd0fa7345744712bef7068,https://niwa-nz.myshopify.com/products/hirds/files/66cd0fa7345744712bef7068,sensitivity,to request
+2,Waikato,4,2 d,2880,5.0,673d3b3a6ba42af3b98d4a3f,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a3f,sensitivity,to request
+2,Waikato,4,2 d,2880,50.0,673d3b3a6ba42af3b98d4a5f,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a5f,sensitivity,to request
+2,Waikato,4,2 d,2880,250.0,673d3b3a6ba42af3b98d4a2f,https://niwa-nz.myshopify.com/products/hirds/files/673d3b3a6ba42af3b98d4a2f,sensitivity,to request

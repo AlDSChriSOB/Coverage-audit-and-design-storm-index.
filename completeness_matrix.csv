@@ -1,0 +1,18 @@
+region,hirds_version,products_present,products_expected,missing,complete,case_study
+Canterbury,4,144,144,0,True,True
+Marlborough,4,144,144,0,True,True
+Waikato,4,144,144,0,True,True
+Auckland,4,144,144,0,True,False
+Bay of Plenty,4,144,144,0,True,False
+Gisborne,4,144,144,0,True,False
+Hawke's Bay,4,144,144,0,True,False
+Manawatu-Whanganui,4,144,144,0,True,False
+Nelson,4,144,144,0,True,False
+New Zealand,5,144,144,0,True,False
+Northland,4,144,144,0,True,False
+Otago,4,144,144,0,True,False
+Southland,4,144,144,0,True,False
+Taranaki,4,144,144,0,True,False
+Tasman,4,144,144,0,True,False
+Wellington,4,144,144,0,True,False
+West Coast,4,144,144,0,True,False
